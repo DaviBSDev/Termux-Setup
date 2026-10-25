@@ -1,5 +1,7 @@
 # Packages:
 
+# TuxSay
+https://github.com/DaviBSDev/TuxSay
 # eza
 # lazyvim:
 https://github.com/Veha0001/dotLazyVim
