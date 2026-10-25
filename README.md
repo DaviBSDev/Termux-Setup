@@ -12,4 +12,6 @@ https://starship.rs/
 https://github.com/termux/termux-styling
 
 ## With the Font:
-Go Font
+Go Mono
+## Colorsheckme
+Dracula
