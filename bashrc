@@ -7,5 +7,5 @@ export ROOT="/storage/emulated/0/"
 
 eval "$(starship init bash)"
 
-[[ ${USER-} ]] || export USER=$(id -un)
-source -- ~/.local/share/blesh/ble.sh
+#[[ ${USER-} ]] || export USER=$(id -un)
+#source -- ~/.local/share/blesh/ble.sh
