@@ -1,8 +1,9 @@
 # Packages:
 
-eza
-lazyvim:
+# eza
+# lazyvim:
 https://github.com/Veha0001/dotLazyVim
-ble:
+# ble:
 https://github.com/akinomyoga/ble.sh
-Startship:
+# Startship:
+https://starship.rs/
