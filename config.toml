@@ -1,0 +1,13 @@
+[java]
+home = "default"
+
+[tools]
+aapt2 = "default"
+zipalign = "default"
+androidJar = "default"
+ndk = "/data/data/com.termux/files/home/android-ndk-r29/toolchains/llvm/prebuilt/linux-x86_64"
+
+[logs]
+enableColor = true
+enableTimeStamp = true
+enableDebugMode = true
